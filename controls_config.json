@@ -1,0 +1,26 @@
+{
+  "base_config": {
+    "seed": 20260618,
+    "n_subjects_per_regime": 32,
+    "n_windows": 180,
+    "n_channels": 48,
+    "n_bands": 4,
+    "n_states": 3,
+    "block_len": 15,
+    "amplitude_matched": true,
+    "max_transition_search": 28,
+    "output_dir": "outputs_v2"
+  },
+  "controls": [
+    "state_label_shuffle",
+    "phase_scramble_by_independent_channel_circular_shift",
+    "regime_label_shuffle_permutation",
+    "layer_ablation",
+    "bootstrap_confidence_intervals",
+    "seed_robustness"
+  ],
+  "n_permutations_regime_shuffle": 300,
+  "n_bootstrap": 1000,
+  "n_seed_robustness_runs": 8,
+  "n_subjects_per_regime_per_seed": 8
+}

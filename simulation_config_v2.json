@@ -1,0 +1,12 @@
+{
+  "seed": 20260618,
+  "n_subjects_per_regime": 32,
+  "n_windows": 180,
+  "n_channels": 48,
+  "n_bands": 4,
+  "n_states": 3,
+  "block_len": 15,
+  "amplitude_matched": true,
+  "max_transition_search": 28,
+  "output_dir": "outputs_v2"
+}
