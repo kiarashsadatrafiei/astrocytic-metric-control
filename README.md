@@ -4,7 +4,7 @@ Synthetic regime analysis for astrocytic metric control of cognitive-state geome
 
 This repository contains the code, synthetic data outputs, control analyses, and manuscript-ready analysis figures associated with the manuscript:
 
-**Astrocytic Control of Cognitive-State Geometry: Metric Regulation and Interlayer Transitions in Neural Dynamics**
+**Astrocytic Control of Cognitive-State Geometry: A Neurogeometric Model of Metric Regulation and Interlayer Transitions**
 
 ## Overview
 
